@@ -19,3 +19,5 @@ Scope and Objective of Project:-
 
 MYSQL has been used for database in this project.
 
+
+The databases for this project has been created directly from the MYSQL (Explicitly). Only CRUD operations have been performed in this project.
