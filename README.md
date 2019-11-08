@@ -1,5 +1,7 @@
 # Library-Management-System
 
+Youtube Link :- https://www.youtube.com/watch?v=bqpamkKqzPo
+
 This is Library Management project which uses JAVA (GUI and Backend) and MYSQL (Database).
 
 Scope and Objective of Project:-
@@ -17,7 +19,12 @@ Scope and Objective of Project:-
   - When the book is returned, student ID is entered by the Librarian to get details of the book issued, further the return date is mentioned and the book’s status is changed to returned/available.
 
 
-MYSQL has been used for database in this project.
+MYSQL has been used for database in this project. It contains 4 tables 
+    •	Book  -This table contains fields like ISBN, Title, Author, Quantity and Price.
+    •	Admin -This table contains fields like User_id and Password.
+    •	Student -This table contains fields like Student_ID, Name, Course, Branch and Year. 
+    •	Record  -This table contains fields like Return_Date, ISBN, Student_id and Issue_Date.
+    
+Report has been uploaded into repository and Youtube Description, you can refer it.
 
-
-The databases for this project has been created directly from the MYSQL (Explicitly). Only CRUD operations have been performed in this project.
+Youtube Link :- https://www.youtube.com/watch?v=bqpamkKqzPo
