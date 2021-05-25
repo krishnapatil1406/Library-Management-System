@@ -20,10 +20,10 @@ Scope and Objective of Project:-
 
 
 MYSQL has been used for database in this project. It contains 4 tables 
-    •	Book  -This table contains fields like ISBN, Title, Author, Quantity and Price.
-    •	Admin -This table contains fields like User_id and Password.
-    •	Student -This table contains fields like Student_ID, Name, Course, Branch and Year. 
-    •	Record  -This table contains fields like Return_Date, ISBN, Student_id and Issue_Date.
+    -	Book  -This table contains fields like ISBN, Title, Author, Quantity and Price.
+    -	Admin -This table contains fields like User_id and Password.
+    -	Student -This table contains fields like Student_ID, Name, Course, Branch and Year. 
+    -	Record  -This table contains fields like Return_Date, ISBN, Student_id and Issue_Date.
     
 Report has been uploaded into repository and Youtube Description, you can refer it.
 
